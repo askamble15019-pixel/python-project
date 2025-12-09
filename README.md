@@ -29,7 +29,6 @@ python bmi_calculator.py
 
 
 
----
 
 
 # OIBSIP Python Task 2 – Password Generator
