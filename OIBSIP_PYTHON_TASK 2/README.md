@@ -1,9 +1,3 @@
-
----
-
-## 📄 **README for Task 5 – Chat Application**
-
-```markdown
 # OIBSIP Python Task 5 – Chat Application
 
 ## Objective
