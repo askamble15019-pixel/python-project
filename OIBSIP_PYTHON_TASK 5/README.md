@@ -1,4 +1,4 @@
-# OIBSIP Python Task 3 – Weather App
+# OIBSIP Python Task 5 – Weather App
 
 ## Objective
 To create a Python program that fetches real-time weather data using the OpenWeatherMap API.
