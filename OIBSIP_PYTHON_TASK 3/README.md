@@ -1,4 +1,4 @@
-# OIBSIP Python Task 2 – Password Generator
+# OIBSIP Python Task 3 – Password Generator
 
 ## Objective
 To create a secure password generator that allows users to choose password length and character types.
