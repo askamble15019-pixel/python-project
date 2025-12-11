@@ -1,4 +1,4 @@
-# OIBSIP Python Task 5 – Chat Application
+# OIBSIP Python Task 2 – Chat Application
 
 ## Objective
 To build a simple chat application using Python socket programming where two users can exchange messages.
